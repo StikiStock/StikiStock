@@ -1,15 +1,15 @@
-<h1 align="center">Aloha, It's Stiki</h1>
-<h3 align="center">I'm a Front-end Developer / Designer.</h3>
+<h1 align="center">It's Stiki 👋</h1>
+<h3 align="center">I'm a Front-end Developer / Web Designer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stikistock&label=Profile%20views&color=0e75b6&style=flat" alt="stikistock" /> </p>
 
-- 🔭 I’m currently working on my personal portfolio website. [Stiki.ir](https://stiki.ir)
+- 🔭 I’m currently working on a Digital Store website. [https://thundermc.ir](https://thundermc.ir)
 
-- 👨‍💻 All of my projects are available at (soon) [https://stiki.ir/projects](https://stiki.ir/projects)
+- 👨‍💻 All of my projects are available at (soon) [https://StikiStock.github.io](https://StikiStock.github.io)
 
-- 📫 How to reach me: **contact@stiki.ir / @xStiki**
+- 📫 How to reach me: **stiki.gt@gmail.com / @xStiki**
 
-- ⚡ We Learn, We Implement. **That, i wouldn't recommend.**
+- ⚡ I Learn and Implement non-stop. **I've got the spirit you know**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
