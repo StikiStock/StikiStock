@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on a Digital Store website. [https://thundermc.ir](https://thundermc.ir)
 
-- 👨‍💻 All of my projects are available at (soon) [https://StikiStock.github.io](https://StikiStock.github.io)
+- 👨‍💻 All of my projects are available at (soon) [https://Stiki.ir](https://Stiki.ir)
 
-- 📫 How to reach me: **stiki.gt@gmail.com / @xStiki**
+- 📫 How to reach me: **contact@stiki.ir / @xStiki**
 
-- ⚡ I Learn and Implement non-stop. **I've got the spirit you know**
+- ⚡ I Learn and Implement non-stop.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
