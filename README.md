@@ -1,5 +1,5 @@
 <h1 align="center">I'm Arya (A.K.A Stiki) 👋</h1>
-<h3 align="center" margin-bottom="2em">I'm a Front-end Developer / Web Designer.</h3>
+<h3 align="center" margin-bottom="2em">I'm a Front-end Developer & Graphics Designer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stikistock&label=Profile%20views&color=0e75b6&style=flat" alt="stikistock" /> </p>
 
