@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a Digital Store website. [https://thundermc.ir](https://thundermc.ir)
 
-- 👨‍💻 All of my projects are available at (soon) [https://Stiki.ir](https://Stiki.ir)
+- 👨‍💻 A few of my projects are available at [https://Stiki.ir](https://Stiki.ir)
 
 - 📫 How to reach me: **contact@stiki.ir / @xStiki**
 
@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/15346834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15346834" height="30" width="40" /></a>
-<a href="https://instagram.com/xstiki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xstiki" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/2bkqAjCcNY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/2bkqAjCcNY" height="30" width="40" /></a>
 </p>
 
