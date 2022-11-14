@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a Digital Store website. [https://thundermc.ir](https://thundermc.ir)
 
-- 👨‍💻 A few of my projects are available at [https://Stiki.ir](https://Stiki.ir)
+- 👨‍💻 A few of my projects are available at [https://Stiki.ir](stiki.ir)
 
 - 📫 How to reach me: **contact@stiki.ir / @xStiki**
 
