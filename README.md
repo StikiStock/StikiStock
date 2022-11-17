@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=stikistock&label=Profile%20views&color=0e75b6&style=flat" alt="stikistock" /> </p>
 
-- 🔭 I’m currently working on a Digital Store website. [https://thundermc.ir](https://thundermc.ir)
+- 🔭 I’m currently busy studying
 
 - 👨‍💻 A few of my projects are available at [stiki.ir](https://stiki.ir)
 
